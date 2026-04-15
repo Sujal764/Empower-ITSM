@@ -85,34 +85,32 @@ Frameworks:
 Jupyter Notebook
 FastAPI (optional for deployment)
 ⚙️ Installation & Setup
-# Clone repository
-git clone https://github.com/your-username/empower-itsm-system-ml.git
 
-# Navigate to project directory
-cd empower-itsm-system-ml
+
+
 
 # Install dependencies
 pip install -r requirements.txt
-▶️ How to Run
+# ▶️ How to Run
 Open Jupyter Notebook
 Run data preprocessing notebook
 Train forecasting models
 Generate forecasts (monthly / quarterly / annual)
 (Optional) Deploy models using FastAPI
-📈 Business Impact
-🔽 Reduced incident resolution time
-🔽 Lower reassignment count
-📊 Improved SLA adherence
-📅 Accurate workload forecasting
-💡 Data-driven IT decisions
-🔮 Future Enhancements
+# 📈 Business Impact
+# 🔽 Reduced incident resolution time
+# 🔽 Lower reassignment count
+# 📊 Improved SLA adherence
+# 📅 Accurate workload forecasting
+# 💡 Data-driven IT decisions
+# 🔮 Future Enhancements
 Deep Learning models (LSTM, Prophet)
 Real-time incident prediction
 Auto-ticket routing
 Dashboard integration (Power BI / Streamlit)
 Cloud deployment
-👤 Author
-Pranav Gupta Data Science | Machine Learning | ITSM Analytics
+# 👤 Author
+Sujal Singh Data Science | Machine Learning | ITSM Analytics
 
 ⭐ Acknowledgements
 ITSM best practices (ITIL)
