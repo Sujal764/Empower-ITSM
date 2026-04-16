@@ -10,10 +10,11 @@ The system focuses on:
  This project is designed for real-world enterprise ITSM environments using historical incident data.
 
 # 🎯 Key Objectives
-Reduce incident reassignment and resolution delays
-Predict future incident volumes for better workforce planning
-Enable proactive IT operations using ML
-Improve SLA compliance and service quality
+
+ Reduce incident reassignment and resolution delays
+ Predict future incident volumes for better workforce planning
+ Enable proactive IT operations using ML
+ Improve SLA compliance and service quality
 # 🚀 Features
 1️⃣ Intelligent Incident Analysis
 Uses historical ITSM ticket data
