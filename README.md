@@ -87,14 +87,14 @@ Why Time Series?
 ### *Accurate workload forecasting
 ### *Data-driven IT decisions
 # 🔮 Future Enhancements
-Deep Learning models (LSTM, Prophet)
-Real-time incident prediction
-Auto-ticket routing
-Dashboard integration (Power BI / Streamlit)
-Cloud deployment
+### *Deep Learning models (LSTM, Prophet)
+### *Real-time incident prediction
+### *Auto-ticket routing
+### *Dashboard integration (Power BI / Streamlit)
+### *Cloud deployment
 # 👤 Author
 Sujal Singh Data Science | Machine Learning | ITSM Analytics
 
-⭐ Acknowledgements
-ITSM best practices (ITIL)
-Open-source Python ML ecosystem
+# ⭐ Acknowledgements
+### *ITSM best practices (ITIL)
+### *Open-source Python ML ecosystem
