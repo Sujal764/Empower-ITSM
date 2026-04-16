@@ -68,38 +68,24 @@ Why Time Series?
 ##### *Close_Time
 ##### *No_of_Reassignments
 # 🛠️ Tech Stack
-Programming Language: Python 3.10+
+#### *Programming Language: Python 3.10+
 
-# Libraries:
+#### *Libraries:
+##### pandas, numpy
+##### scikit-learn
+##### statsmodels
+##### matplotlib
+##### joblib
+#### *Frameworks:
+##### Jupyter Notebook
+##### FastAPI (optional for deployment)
 
-pandas, numpy
-scikit-learn
-statsmodels
-matplotlib
-joblib
-Frameworks:
-
-Jupyter Notebook
-FastAPI (optional for deployment)
-⚙️ Installation & Setup
-
-
-
-
-# Install dependencies
-pip install -r requirements.txt
-# ▶️ How to Run
-Open Jupyter Notebook
-Run data preprocessing notebook
-Train forecasting models
-Generate forecasts (monthly / quarterly / annual)
-(Optional) Deploy models using FastAPI
 # 📈 Business Impact
-# 🔽 Reduced incident resolution time
-# 🔽 Lower reassignment count
-# 📊 Improved SLA adherence
-# 📅 Accurate workload forecasting
-# 💡 Data-driven IT decisions
+### *Reduced incident resolution time
+### *Lower reassignment count
+### *Improved SLA adherence
+### *Accurate workload forecasting
+### *Data-driven IT decisions
 # 🔮 Future Enhancements
 Deep Learning models (LSTM, Prophet)
 Real-time incident prediction
