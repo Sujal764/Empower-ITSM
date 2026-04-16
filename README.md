@@ -23,12 +23,13 @@ The system focuses on:
 ##### Sub-category
 ##### Impact & Urgency
 ##### Priority
-2️⃣ Automated Priority Insights
-Analyzes Impact × Urgency patterns
-Helps recommend appropriate priority levels
-Supports faster triaging and reduced manual errors
-3️⃣ Time Series Forecasting
-Forecasts incident volume using ML models
+
+# 2️⃣ Automated Priority Insights
+#### *Analyzes Impact × Urgency patterns
+#### *Helps recommend appropriate priority levels
+#### *Supports faster triaging and reduced manual errors
+# 3️⃣ Time Series Forecasting
+#### *Forecasts incident volume using ML models
 
 # Supports:
 
