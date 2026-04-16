@@ -3,10 +3,10 @@ Empower ITSM System with ML is an intelligent IT Service Management (ITSM) solut
 
 The system focuses on:
 
- ### Smart incident analysis
- ### Priority & SLA intelligence
- ## Incident volume forecasting (monthly, quarterly, annual)
- ## Data-driven decision-making for IT operations
+  ### Smart incident analysis
+  ### Priority & SLA intelligence
+  ### Incident volume forecasting (monthly, quarterly, annual)
+  ### Data-driven decision-making for IT operations
  This project is designed for real-world enterprise ITSM environments using historical incident data.
 
 # 🎯 Key Objectives
